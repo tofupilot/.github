@@ -15,4 +15,4 @@ We welcome contributions!
 
 ---
 
-For questions, reach out via [GitHub Issues](https://github.com/tofupilot) or [email/contact info].
+For questions, reach out via [GitHub Issues](https://github.com/tofupilot).
