@@ -12,7 +12,7 @@ We maintain several products:
 
 Our open-source Python testing framework for hardware validation and production testing.
 
-### [Studio](https://tofupilot.com/docs/studio)
+### [Studio](https://www.tofupilot.com/docs/framework/environments/studio)
 
 A desktop application for developing, debugging, and running your hardware tests locally.
 
