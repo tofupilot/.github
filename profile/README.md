@@ -16,13 +16,13 @@ Our open-source Python testing framework for hardware validation and production 
 
 A desktop application for developing, debugging, and running your hardware tests locally.
 
-<img src="../images/studio.png" alt="TofuPilot Studio" width="600">
+[<img src="../images/studio.png" alt="TofuPilot Studio" width="600">](https://www.tofupilot.com/docs/framework/environments/studio)
 
 ### [Dashboard](https://tofupilot.com/docs/dashboard)
 
 A web-based analytics and monitoring platform for your test data and production insights.
 
-<img src="../images/dashboard.png" alt="TofuPilot Dashboard" width="600">
+[<img src="../images/dashboard.png" alt="TofuPilot Dashboard" width="600">](https://tofupilot.com/docs/dashboard)
 
 ## Trusted By
 
